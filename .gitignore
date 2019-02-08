@@ -1,0 +1,17 @@
+*.aux
+*.lot
+*.lof
+*.log
+*.lol
+*.maf
+*.mtc
+*.mtc0
+*.out
+*.synctex.gz
+*.toc
+*.sty
+*.pdf
+*.DS_Store
+*.zip
+*.odt
+
