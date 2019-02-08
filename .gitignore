@@ -10,7 +10,7 @@
 *.synctex.gz
 *.toc
 *.sty
-*.pdf
+#*.pdf
 *.DS_Store
 *.zip
 *.odt
